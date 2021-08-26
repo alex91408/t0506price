@@ -222,7 +222,7 @@
 
 <body>
     <div class="center">
-        <h2>餐飲店家資料</h2>
+        <h2>餐飲資料</h2>
         <h5 style="margin-bottom:18px"></h5>
     </div>
 
